@@ -2,6 +2,7 @@
 
 
 This repository contains **Dockerfile** of [postgresql](http://www.postgresql.org/) for [Docker](https://www.docker.com/), initialized with a jahia user.
+Jahia docker file can be found [here](https://github.com/pjuvigny/docker-jahia).
 
 
 ### Build Image
